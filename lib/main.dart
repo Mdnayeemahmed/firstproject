@@ -92,14 +92,14 @@ class _HomeActivityState extends State<HomeActivity> {
               ),
 
             ),
-            // ListTile(
-            //   leading: Icon(Icons.add),
-            //   title: Text("Add"),
-            //   onTap: (){
-            //     Navigator.pop(context);
-            //
-            //   },
-            // )
+            ListTile(
+              leading: Icon(Icons.add),
+              title: Text("Add 33325"),
+              onTap: (){
+                Navigator.pop(context);
+
+              },
+            )
           ],
         ),
       ),
