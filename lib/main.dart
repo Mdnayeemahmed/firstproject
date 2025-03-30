@@ -106,7 +106,7 @@ class _HomeActivityState extends State<HomeActivity> {
       floatingActionButton: FloatingActionButton(onPressed: (){
         _showmsg(context);
       },child: Icon(Icons.add),),
-      body: Text("hlw"),
+      body: Text("kk"),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentIndex,
         onTap: (index) {
